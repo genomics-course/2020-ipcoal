@@ -10,3 +10,4 @@ dependencies:
   - raxml
   - scikit-learn
   - astral3
+  - tetrad
